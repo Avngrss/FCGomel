@@ -1,4 +1,4 @@
-## Castaway : https://avngrss.github.io/Castaway/ Pages
+## FCGomel : https://avngrss.github.io/FCGomel/ Pages
 - Многостраничный сайт
 - Использование SCSS
 - Есть мобильная адаптация
