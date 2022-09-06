@@ -1,4 +1,4 @@
-## Createx  : https://avngrss.github.io/Createx/ Pages
+## FCGomel  : avngrss.github.io/fcgomel/ Pages
 - Многостраничный сайт
 - Использование SCSS
 - Есть мобильная адаптация
@@ -6,3 +6,4 @@
 - Использование анимаций из библиотеки AOS.js
 - Использование Bootstrap 5
 - Реализован прелоадер
+- Макет собран чисто на своей фантазии :)
